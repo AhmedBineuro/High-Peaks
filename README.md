@@ -1,4 +1,4 @@
-﻿
+# High Peaks﻿
 **Description:**
   High Peaks is an endless platformer game that uses your voice’s volume as the main controller for our main character, the ghost. The game uses a unique controller with a sound sensor on it that will read your voice level then make the ghost jump higher the louder you are.
 
