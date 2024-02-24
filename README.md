@@ -19,7 +19,7 @@ The controller also comes with an array of LED’s showing the current noise lev
 
 **Challenges encountered:** The main challenge I faced was the discovery that I will not be able to transmit the information wirelessly from the controller to processing due to me buying the wrong bluetooth and wifi modules to experiment with. The main solution was to just abandon the wireless plan and use the regular USB serial connection.
 
-**Final result:
+**Final result:**
 ![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.003.png)
 
 ![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.004.png)**
