@@ -22,7 +22,7 @@ The controller also comes with an array of LED’s showing the current noise lev
 **Final result:**
 ![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.003.png)
 
-![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.004.png)**
+![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.004.png)
 
 ![](Aspose.Words.8504195c-24dc-43b5-a3f2-e4052f4ebc3c.005.png)
 
